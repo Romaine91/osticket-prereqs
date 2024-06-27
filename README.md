@@ -34,6 +34,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/Romaine91/osticket-prereqs/assets/173863740/863c9879-3f69-4384-95cc-804466b5ec38)
 
+Open and create a ticket
+
 Go to the end user URl to create multiple test helpdesk tickets
 ![image](https://github.com/Romaine91/osticket-prereqs/assets/173863740/ee91aba0-c479-43db-9f73-42b9a2699c69)
 
@@ -42,10 +44,12 @@ Go to the end user URl to create multiple test helpdesk tickets
 ![image](https://github.com/Romaine91/osticket-prereqs/assets/173863740/e7b44260-0442-4ed3-87b1-40a863ae75f9)
 
 After creating the tickets - log into the "agent panel" -> assign each ticket a "priority level", "department", & "SLA" -> communicate with the agent via the "reply section" -> post changes. You should now see the changes you made in the main ticket queue
+
 ![image](https://github.com/Romaine91/osticket-prereqs/assets/173863740/f10044e5-eb49-4003-af32-3152834d33f9)
 
 When working and resolving the issue, update the ticket to communicate any status changes
 
-![image](https://github.com/Romaine91/osticket-prereqs/assets/173863740/ae0a4295-78c2-4eb7-822f-b32885e491b2)
+![image](https://github.com/Romaine91/osticket-prereqs/assets/173863740/85ab4059-f86c-428b-a2f5-ac1ad1a72f16)
+
 
 After ticket resolution, the ticket will automatically be moved to the "closed folder: tabe. That concludes this lab.
