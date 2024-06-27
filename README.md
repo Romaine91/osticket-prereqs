@@ -6,7 +6,7 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
+
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
@@ -20,36 +20,32 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2> Ticket Lifecycle Stages</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+. Intake
 
-<h2>Installation Steps</h2>
+. Assignment and Communication
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+. Working the Issue
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+. Resolution
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h2>Lifecycle Stages</h2>
+
+![image](https://github.com/Romaine91/osticket-prereqs/assets/173863740/863c9879-3f69-4384-95cc-804466b5ec38)
+
+Go to the end user URl to create multiple test helpdesk tickets
+![image](https://github.com/Romaine91/osticket-prereqs/assets/173863740/ee91aba0-c479-43db-9f73-42b9a2699c69)
+
+![image](https://github.com/Romaine91/osticket-prereqs/assets/173863740/88ab8897-b130-4a36-ae04-e71b003335ef)
+
+![image](https://github.com/Romaine91/osticket-prereqs/assets/173863740/e7b44260-0442-4ed3-87b1-40a863ae75f9)
+
+After creating the tickets - log into the "agent panel" -> assign each ticket a "priority level", "department", & "SLA" -> communicate with the agent via the "reply section" -> post changes. You should now see the changes you made in the main ticket queue
+![image](https://github.com/Romaine91/osticket-prereqs/assets/173863740/f10044e5-eb49-4003-af32-3152834d33f9)
+
+When working and resolving the issue, update the ticket to communicate any status changes
+
+![image](https://github.com/Romaine91/osticket-prereqs/assets/173863740/ae0a4295-78c2-4eb7-822f-b32885e491b2)
+
+After ticket resolution, the ticket will automatically be moved to the "closed folder: tabe. That concludes this lab.
