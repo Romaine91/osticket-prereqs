@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Intake - Resolution</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the open-source help desk ticketing system osTicket.<br />
 
 
 
